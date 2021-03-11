@@ -1,1 +1,2 @@
-# AferesisStudy
+# ![AferesisStudy](PortadaProyecto.png)
+
