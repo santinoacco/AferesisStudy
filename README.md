@@ -1,4 +1,4 @@
-# _Aferesis Study_
+# _Apheresis Study_
 
 _by Santiago Noacco_
 
